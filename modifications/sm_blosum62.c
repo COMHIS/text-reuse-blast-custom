@@ -36,7 +36,7 @@
 /** Entries for the BLOSUM62 matrix at a scale of ln(2)/2.0. */
 
 static const TNCBIScore s_Blosum62PSM[25 * 25] = {
-/*       A,  R,  N,  D,  C,  Q,  E,  G,  H,  I,  L,  K,  M,
+    /*       A,  R,  N,  D,  C,  Q,  E,  G,  H,  I,  L,  K,  M,
              F,  P,  S,  T,  W,  Y,  V,  B,  J,  Z,  X,  *        */ 
     /*A*/    9, -5, -5, -5, -5, -5, -5, -5, -5, -5, -5, -5, -5,
             -5, -5, -5, -5, -5, -5, -5, -5, -5, -5, -5, -5,
